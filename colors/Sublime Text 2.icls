@@ -460,6 +460,11 @@
         <option name="FOREGROUND" value="52e3f6" />
       </value>
     </option>
+    <option name="JAVA_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="fafff3" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff007f" />

@@ -1,0 +1,11 @@
+<application>
+  <component name="DevSyncSettings">
+    <option name="justDoIt" value="true" />
+  </component>
+  <component name="RemoteHost">
+    <option name="host" value="srrangas-r3-8x.aka.corp.amazon.com" />
+    <option name="port" value="22" />
+    <option name="privateKey" value="-----BEGIN RSA PRIVATE KEY-----&#10;MIIEogIBAAKCAQEAvyIQ0GgRaZzzRVDR0fiuswPOsuwNAz5L5D/peA/IlYErsF4B&#10;u3qn/ogT3QcAmK0XEHdKhQubI0D/YsXL6pqjCr8XahvwDQTcst4UzsPD1u/oxo5R&#10;UsRevLz5Wdy99UY7Vdb+92UPTd1sgtVtqhK7wu9DBnBTkhi0280VdP0gY1SJggdb&#10;J6+7D8hhtIsrD3BRRJvEDpJKWeJYHBo9ZRfHVDvKPTRTPCPVCo37fC5FmlE+/Uri&#10;e4bEVM9z6IFnqvEtuBi+AkJ/zVjQykB8wcLJRlTrQs3cmAFuX4lFvjIfQbgtV9uL&#10;ikIsm/qC8lVP3/FEOfWRm7p56LF/Wezu1Luw5wIDAQABAoIBAFZyCNrJhr6Wrux1&#10;zkBCUnlCypTf8E68OUTlpymXMeh0gJcHHY92vU6Aq0M3bIyhFKJs4bZk9miueBNr&#10;VHwqLn2oyeVC94Jb5Zm8mfqeThADd+t96Mgfap3AdqKvFPc/KYz8bVrlSVO1RuOx&#10;tiTKzkMvRcg+u32DUSFskzzTU3e4tmu0U9GnxUWvG0eqO4ocRMqc5jPX2ZyAWfW1&#10;oWBPqXtR7h1WBFhjCSWkdQdV9bQ/cbjw0UrvqR6ObZMgqXD/x8Szq9V8vkbA61k5&#10;3R9ig23nFYp7rK77gvep8QuV0KA4RG4CTO3SEjoNQ7Q+xeQYPGARq9OnGq+dzPAO&#10;fi47/skCgYEA81f49IkPL+sZ5nB6e0B0Cz3giKAiFuQaGXMLE+PPkd6XyU46Izy2&#10;9DVveOafGIs83oE9aUTQlNj7ki7VSBMajsxnsJw1E+cwHZ50FA5+wnSY+Ap/6c4I&#10;C8H2+RlXGUISsOKfOePYnDy0MqcjUpmSKSeWOW27uOquPvcTX+ilbisCgYEAyRLt&#10;7CJiIHe4U+A86dgXFSkz+7ZP9NLlBuAhWanmatw9rCUVwi/8cPbbhKZxsKVJnRom&#10;sMr8l10ncMdOwYRB0Az00d1WXD6+aEXCLh2PgRXSRab26AxCUFa5vKysR6VQ9kI9&#10;AqqghwR/tN9GmGZIcGQVbr6ZiaIss+uZcjUkpjUCgYAyuWrGpm9JAMvEUjvlxzip&#10;QzuznxWcCe460dVETx9se6bOKoVJ5RUJ8L2MyR3uws9sXipL8DE+ZcCC50pEHN9T&#10;Vt5iXR1fSbio4+e0apUXubBNO/sP5Iee087Ee/jA5hn5TzP7oDf90VWKnXZqeGKU&#10;O5E/5VTVJe4uZ9hdDKS3QwKBgA/jwg+GDBEaxOND9ixYmkJe1i/PEXR8cgLgFWKb&#10;jYzmSK1g5N5Kon1e1Kwf5x4Zgb67gVE5SUrA3swHxA6A4B6L15D6F8gEYVGmKZkx&#10;VtTRn6NHdX2S8m6c2+KwFpE23DYJt/6M81CYJ2totZB3jMPs9NCimUmKGlRBiwe+&#10;cV39AoGAdWjFbIjMuW1W8nXK+Wh3DV2G/8fqawgldsGgZ2XnL0wteK5SAitCH7cI&#10;fvk3eOzHm/cRKz02WrMT0VcGEDtv5nS0rRIHS6/yyR1h4H6oLYKB9j7s1endqqx5&#10;qkZL8h3Tuq50cjIqDwhiIzl0ZFDTaF4u/cNZ8IDt8aPxNqOBKRk=&#10;-----END RSA PRIVATE KEY-----" />
+    <option name="user" value="srrangas" />
+  </component>
+</application>

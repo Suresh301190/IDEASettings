@@ -4,18 +4,18 @@
       <mapping pattern="*.template.yml" type="AWSCloudFormation (YAML)" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="customization.config" type="JSON" />
+      <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="jvm-arguments" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="bb-all" type="PLAIN_TEXT" />
+      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
       <mapping pattern="050DrainRelayConnsConsumable" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
-      <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />

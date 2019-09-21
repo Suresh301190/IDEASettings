@@ -3,7 +3,7 @@
     <option name="justDoIt" value="true" />
   </component>
   <component name="RemoteHost">
-    <option name="host" value="srrangas-r3-8x.aka.corp.amazon.com" />
+    <option name="host" value="dev-dsk-srrangas-r3-8x-5c7a468a.us-west-2.amazon.com" />
     <option name="port" value="22" />
     <option name="privateKeyFilePath" value="$USER_HOME$/.ssh/id_rsa" />
     <option name="user" value="srrangas" />

@@ -8,6 +8,7 @@
       <mapping pattern="customization.config" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
+      <mapping pattern="ArtifactLocations" type="PLAIN_TEXT" />
       <mapping pattern="jvm-arguments" type="PLAIN_TEXT" />
       <mapping pattern="050DrainRelayConnsConsumable" type="PLAIN_TEXT" />
       <mapping pattern="bb-all" type="PLAIN_TEXT" />

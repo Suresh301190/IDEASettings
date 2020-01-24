@@ -4,6 +4,7 @@
       <mapping pattern="*.template.yml" type="AWSCloudFormation (YAML)" />
       <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="customization.config" type="JSON" />
+      <mapping pattern="full-classpath" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="ArtifactLocations" type="PLAIN_TEXT" />

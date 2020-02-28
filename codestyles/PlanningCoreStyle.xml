@@ -8,6 +8,11 @@
       </value>
     </option>
   </AndroidXmlCodeStyleSettings>
+  <CsvCodeStyleSettings>
+    <option name="TRIM_LEADING_WHITE_SPACES" value="true" />
+    <option name="TRIM_TRAILING_WHITE_SPACES" value="true" />
+    <option name="LEADING_WHITE_SPACES" value="true" />
+  </CsvCodeStyleSettings>
   <JSCodeStyleSettings version="0">
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>

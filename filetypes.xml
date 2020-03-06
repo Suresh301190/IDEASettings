@@ -13,7 +13,6 @@
       <mapping pattern="_sshenv_complete" type="PLAIN_TEXT" />
       <mapping pattern="bb-all" type="PLAIN_TEXT" />
       <mapping pattern="PRODUCE_SAM_MERGE_FILE" type="PLAIN_TEXT" />
-      <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="gitkeep" type="PLAIN_TEXT" />
       <mapping ext="dot" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />

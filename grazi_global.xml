@@ -1,6 +1,11 @@
 <application>
   <component name="GraziConfig">
     <option name="enabledCommitIntegration" value="true" />
+    <option name="userDisabledRules">
+      <set>
+        <option value="READABILITY_RULE_SIMPLE" />
+      </set>
+    </option>
     <option name="userEnabledRules">
       <set>
         <option value="APOSTROPHE_IN_DATES" />
@@ -11,7 +16,6 @@
         <option value="CURRENCY_SPACE" />
         <option value="HASH_SYMBOL" />
         <option value="READABILITY_RULE_DIFFICULT" />
-        <option value="READABILITY_RULE_SIMPLE" />
         <option value="TOO_LONG_PARAGRAPH" />
         <option value="UPPERCASE_SENTENCE_START" />
         <option value="WIKIPEDIA_12_AM" />

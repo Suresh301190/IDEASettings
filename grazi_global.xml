@@ -1,5 +1,26 @@
 <application>
   <component name="GraziConfig">
+    <option name="enabledCommitIntegration" value="true" />
+    <option name="userEnabledRules">
+      <set>
+        <option value="APOSTROPHE_IN_DATES" />
+        <option value="APOSTROPHE_IN_DAYS" />
+        <option value="CAPITALIZATION_NNP_DERIVED" />
+        <option value="COMMA_PARENTHESIS_WHITESPACE" />
+        <option value="CURRENCY" />
+        <option value="CURRENCY_SPACE" />
+        <option value="HASH_SYMBOL" />
+        <option value="READABILITY_RULE_DIFFICULT" />
+        <option value="READABILITY_RULE_SIMPLE" />
+        <option value="TOO_LONG_PARAGRAPH" />
+        <option value="UPPERCASE_SENTENCE_START" />
+        <option value="WIKIPEDIA_12_AM" />
+        <option value="WIKIPEDIA_12_PM" />
+        <option value="WIKIPEDIA_CONTRACTIONS" />
+        <option value="WIKIPEDIA_CURRENTLY" />
+        <option value="WRONG_APOSTROPHE" />
+      </set>
+    </option>
     <option name="lastSeenVersion" value="2019.3-6.2.stable" />
   </component>
 </application>

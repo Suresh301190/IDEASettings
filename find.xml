@@ -11,7 +11,6 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
@@ -20,5 +19,6 @@
     <mask>*.yml</mask>
     <mask>*.json</mask>
     <mask>*.cfg</mask>
+    <mask>*.java</mask>
   </component>
 </application>

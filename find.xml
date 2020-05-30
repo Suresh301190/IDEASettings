@@ -20,7 +20,7 @@
     <mask>*.template</mask>
     <mask>*.yml</mask>
     <mask>*.json</mask>
-    <mask>*.cfg</mask>
     <mask>*.java</mask>
+    <mask>*.cfg</mask>
   </component>
 </application>

@@ -11,6 +11,7 @@
     </option>
     <option name="port" value="22" />
     <option name="privateKeyFilePath" value="$USER_HOME$/.ssh/id_rsa" />
+    <option name="useSshAgent" value="false" />
     <option name="user" value="srrangas" />
   </component>
 </application>

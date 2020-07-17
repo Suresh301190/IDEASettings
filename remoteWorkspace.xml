@@ -1,4 +1,7 @@
 <application>
+  <component name="DevSyncSettings">
+    <option name="justDoIt" value="true" />
+  </component>
   <component name="RemoteHost">
     <option name="host" value="dev-dsk-srrangas-r3-8x-5c7a468a.us-west-2.amazon.com" />
     <option name="hosts">

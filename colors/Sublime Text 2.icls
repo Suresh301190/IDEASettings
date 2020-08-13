@@ -15,7 +15,7 @@
     <option name="ADDED_LINES_COLOR" value="295622" />
     <option name="CARET_COLOR" value="bbbbbb" />
     <option name="CARET_ROW_COLOR" value="5b5a4e" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="272822" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DOCUMENTATION_COLOR" value="3c3f41" />
     <option name="FILESTATUS_ADDED" value="629755" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
@@ -482,6 +482,16 @@
     <option name="LOG_EXPIRED_ENTRY">
       <value>
         <option name="FOREGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOG_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="cdc912" />
+      </value>
+    </option>
+    <option name="LOG_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="31ee12" />
       </value>
     </option>
     <option name="LOG_WARNING_OUTPUT">

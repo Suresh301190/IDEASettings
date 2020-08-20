@@ -3,6 +3,8 @@
     <extensionMap>
       <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="customization.config" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="PRODUCE_BATS_CONFIG_FILE" type="PLAIN_TEXT" />
       <mapping pattern="full-classpath" type="PLAIN_TEXT" />
       <mapping pattern="build-and-synthesize" type="PLAIN_TEXT" />

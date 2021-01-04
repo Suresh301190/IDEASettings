@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="output" type="AUTO_DETECTED" />
       <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="customization.config" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />

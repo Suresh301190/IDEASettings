@@ -474,6 +474,12 @@
         <option name="FOREGROUND" value="fafff3" />
       </value>
     </option>
+    <option name="JS.GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="16ab1c" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="LOG_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff007f" />

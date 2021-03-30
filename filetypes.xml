@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <removed_mapping ext="klib" type="ARCHIVE" />
       <mapping pattern="output" type="AUTO_DETECTED" />
       <mapping pattern="codegen.config" type="JSON" />
       <mapping pattern="customization.config" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="bb-all" type="PLAIN_TEXT" />
       <mapping pattern="affected-atsd1-vrs-with-tourid" type="PLAIN_TEXT" />
       <mapping pattern="ArtifactLocations" type="PLAIN_TEXT" />
